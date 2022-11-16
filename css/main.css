@@ -322,3 +322,6 @@ font-size: 12px;
 line-height: 14px;
 color: #828282;
 }
+.middle-line_logo.float-left img.last_logo  {
+    margin-right: 0;
+}
