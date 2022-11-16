@@ -221,13 +221,17 @@ main {
 }
 
 /* 4 cards in row */
+
 .cards-4 .card {
     width: calc((100% - 90px) / 4);
 }
+
 /* 2 cards in row */
+
 .cards-2 .card {
     width: calc((100% - 30px) / 2);
 }
+
 .card_impuls a{
     padding-right: 63.8px;
     padding-left: 63.8px;
@@ -237,12 +241,15 @@ main {
     border-bottom: 1px solid #EFEFEF;
     background: #FFFFFF;
 }
+
 .card_impuls a.last_link{
     border-right: 0px;
 }
+
 .card_impuls div a{
     width: calc(100% / 4);
 }
+
 .card {
     float: left;
 }
@@ -259,13 +266,17 @@ main {
 .cta h4, .cta p {
     margin-bottom: 25px;
 }
+
 .cta{
     margin-bottom: 100px;
 }
+
 .cta .card.bg-primary.right{
     margin-right: 0;
 }
+
 /* footer */
+
 .footer_category .title_category{
 font-weight: 500;
 font-size: 16px;
@@ -273,28 +284,35 @@ max-width: 99px;
 padding-bottom: 30px;
 padding-top: 60px;
 }
+
 .category_box{
     margin-right: 30px;
     width: calc((100% - 90px) / 4);
 }
+
 .category_links a{
     font-weight: 400;
 font-size: 12px;
 line-height: 28px;
 color: #828282;
 }
+
 .tittle_border{
     border-bottom: 1px solid #EFEFEF;
 }
+
 .footer_category div:nth-child(4){
 margin-right: 0px;
 }
+
 .footer_category .category_links.first_link{
     margin-top: 20px;
 }
+
 .footer_category .category_links.last_link{
     margin-bottom: 60px;
 }
+
 .middle-line.footer{
     border-top: 1px solid #EFEFEF;
     padding: 0;
@@ -303,25 +321,31 @@ margin-right: 0px;
 .footer a img{
     margin-top: 37px;
 }
+
 .footer button{
     margin: 40px 0px;
 }
+
 footer .middle-line_buttons{
     padding: 0;
 }
+
 footer .bottom-line{
     background: #EFEFEF;
 }
+
 .bottom-line.footer{
     padding: 25px 0px;
     
 }
+
 .bottom-line.footer p{
     font-weight: 400;
 font-size: 12px;
 line-height: 14px;
 color: #828282;
 }
+
 .middle-line_logo.float-left img.last_logo  {
     margin-right: 0;
 }
